@@ -177,7 +177,9 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Contact
 
-For questions or suggestions, open an issue on GitHub.
+📧 **Email:** sonviplm1@gmail.com
+
+For questions or suggestions, feel free to reach out!
 
 ---
 
@@ -359,7 +361,9 @@ Chúng tôi hoan nghênh những đóng góp! Hãy thoải mái:
 
 ## 📧 Liên Hệ
 
-Nếu có câu hỏi hoặc gợi ý, hãy mở một vấn đề trên GitHub.
+📧 **Email:** sonviplm1@gmail.com
+
+Nếu có câu hỏi hoặc gợi ý, hãy liên hệ với chúng tôi!
 
 ---
 
